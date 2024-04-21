@@ -25,10 +25,11 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
 </ol>
 
 <!--<h3>Przez CurseForge</h3>
-1. Wejdź na stronę Techonoda (<a href="">tutaj</a>)
-2. Kliknij pobierz za pomocą CurseForge
-3. Odpal grę
-4. Gotowe (w razie problemów zgłoś się na a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)
+<ol>
+    <li>Wejdź na stronę Techonoda (<a href="">tutaj</a>)</li>
+    <li>Kliknij pobierz za pomocą CurseForge.</li>
+    <li>Odpal grę.</li>
+    <li>Gotowe (w razie problemów zgłoś się na a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)</li>
 -->
 
 ## Minecraft nopremium
@@ -36,13 +37,15 @@ Postępuj zgodnie z wymaganiami własnego launchera. (Przepraszmy za to. Nie wie
 <!--biedaki kupcie pełąn grę a nie piracicie-->
 
 <h3>TLauncher</h3>
-1. Pobierz paczkę modów.
-2. Otwórz folder TLmods.
-3. Kliknij "Utwórz" i stwórz paczkę modów o tej samej wersji, co posiadana paczka.
-4. Otwórz folder .minecraft.
-5. W folderze "versions" znajdź swoją paczkę modów.
-6. Otwórz folder pobranej paczki modów.
-7. Skopiuj wszystkie foldery i wklej je do folderu paczki modów
+<ol>
+    <li>Pobierz paczkę modów.</li>
+    <li>Otwórz folder TLmods.</li>
+    <li>Kliknij "Utwórz" i stwórz paczkę modów o tej samej wersji, co posiadana paczka.</li>
+    <li>Otwórz folder .minecraft.</li>
+    <li>W folderze "versions" znajdź swoją paczkę modów.</li>
+    <li>Otwórz folder pobranej paczki modów.</li>
+    <li>Skopiuj wszystkie foldery i wklej je do folderu paczki modów</li>
+</ol>
 
 <h3>Crystal Launcher</h3>
 Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">tutaj</a>
