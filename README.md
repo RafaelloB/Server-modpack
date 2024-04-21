@@ -27,9 +27,22 @@ Prośba do użytkowników aby nie niszczyli sprawna oraz 160 bloków od swojego 
 </table>
 
 # Przydatne mody
-<a href="https://www.curseforge.com/minecraft/mc-mods/jei" >Jei</a>: Mod pomaga przy znajdowanie receptur
-<a href="" ></a>
-<a href="" ></a>
-<a href="" ></a>
-<a href="" ></a>
-<a href="" ></a>
+<a href="" >Jei</a>: Mod pomaga przy znajdowanie receptur
+<table border="1">
+    <tr>
+        <td><a href="https://www.curseforge.com/minecraft/mc-mods/jei">Jei</a></td>
+        <td>Wszystkie receptury</td>
+    </tr>
+    <tr>
+        <td><a href="https://optifine.net/downloads">OptiFine</a></td>
+        <td>Optymalizacja grafiki</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaeros World Map</a></td>
+        <td>Mapa</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap">Wiki</a></td>
+        <td>Minimapa</td>
+    </tr>
+</table>
