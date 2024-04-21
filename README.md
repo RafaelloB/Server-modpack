@@ -43,7 +43,7 @@ Postępuj zgodnie z wymaganiami własnego launchera. (Przepraszmy za to. Nie wie
 7. Skopiuj wszystkie foldery i wklej je do folderu paczki modów
 
 <h3>Crystal Launcher</h3>
-Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">tytaj</a>
+Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">tutaj</a>
 
 
 # Wiki
