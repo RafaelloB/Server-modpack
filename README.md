@@ -30,6 +30,7 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
     <li>Kliknij pobierz za pomocą CurseForge.</li>
     <li>Odpal grę.</li>
     <li>Gotowe (w razie problemów zgłoś się na a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)</li>
+<ol>
 -->
 
 ## Minecraft nopremium
