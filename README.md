@@ -76,7 +76,7 @@ Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać ws
     <li>Refined Storage</li>
 </ul>
 
-## Dodatkowe mody
+## Dodatkowe mody (addons)
 <ul>
     <li>Create Enchantment Industy</li>
     <li>Create Recycle Everything</li>
@@ -89,7 +89,7 @@ Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać ws
     <li>Create: Steam 'n' Rails</li>
 </ul>
 
-## Biblioteki
+## Biblioteki (librarys)
 <ul>
     <li>Athena</li>
     <li>MaFgLib</li>
