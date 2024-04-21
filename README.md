@@ -13,7 +13,7 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
 
 # Instalacja
 ## Minecraft premium
-<h1>Ręczna</h1>
+<h3>Ręczna</h3>
 1. Pobierz forge na wersję 1.20.1 <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">tutaj</a> (najlepiej wersję 47.2.0).
 2. Zainstaluj forge.
 3. Pobierz plik Technomod_MODPACK.zip
@@ -22,7 +22,7 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
 6. Odpal grę.
 7. Gotowe (w razie problemów zgłoś się na a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)
 
-<!--<h1>Przez CurseForge</h1>
+<!--<h3>Przez CurseForge</h3>
 1. Wejdź na stronę Techonoda (<a href="">tutaj</a>)
 2. Kliknij pobierz za pomocą CurseForge
 3. Odpal grę
@@ -33,7 +33,7 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
 Postępuj zgodnie z wymaganiami własnego launchera. (Przepraszmy za to. Nie wiemy jaki macie luncher.)
 <!--biedaki kupcie pełąn grę a nie piracicie-->
 
-<h1>TLauncher</h1>
+<h3>TLauncher</h3>
 1. Pobierz paczkę modów.
 2. Otwórz folder TLmods.
 3. Kliknij "Utwórz" i stwórz paczkę modów o tej samej wersji, co posiadana paczka.
@@ -42,7 +42,7 @@ Postępuj zgodnie z wymaganiami własnego launchera. (Przepraszmy za to. Nie wie
 6. Otwórz folder pobranej paczki modów.
 7. Skopiuj wszystkie foldery i wklej je do folderu paczki modów
 
-<h1>Crystal Launcher</h1>
+<h3>Crystal Launcher</h3>
 Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">tytaj</a>
 
 
