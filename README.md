@@ -1,5 +1,5 @@
 # Techomod
-Strona dla paczkęmodów który będzie używany na serverze (który będzie dostępny na majówkę).
+Strona dla paczkimodów który będzie używany na serverze (który będzie dostępny na majówkę).
 
 # Pobierz
 <a href="https://github.com/RafaelloB/Server-modpack/releases/download/1.20.1_v0.1/Technomod_MODPACK.zip">KLIK</a>
