@@ -87,7 +87,7 @@ Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">t
         <td>Mapa</td>
     </tr>
     <tr>
-        <td><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap">Wiki</a></td>
+        <td><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap">Xaeros Minimap</a></td>
         <td>Minimapa</td>
     </tr>
 </table>
