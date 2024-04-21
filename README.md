@@ -21,7 +21,7 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
     <li>Rozpakuj paczkęmodów.</li>
     <li>Przenieś mody do folderu mods.</li>
     <li>Odpal grę.</li>
-    <li>Gotowe (w razie problemów zgłoś się na a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)</li>
+    <li>Gotowe (w razie problemów zgłoś się na <a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)</li>
 </ol>
 
 <!--<h3>Przez CurseForge</h3>
