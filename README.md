@@ -14,13 +14,15 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
 # Instalacja
 ## Minecraft premium
 <h3>Ręczna</h3>
-1. Pobierz forge na wersję 1.20.1 <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">tutaj</a> (najlepiej wersję 47.2.0).
-2. Zainstaluj forge.
-3. Pobierz plik Technomod_MODPACK.zip
-4. Rozpakuj paczkęmodów.
-5. Przenieś mody do folderu mods.
-6. Odpal grę.
-7. Gotowe (w razie problemów zgłoś się na a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)
+<ol>
+    <li>Pobierz forge na wersję 1.20.1 <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">tutaj</a> (najlepiej wersję 47.2.0).</li>
+    <li>Zainstaluj forge.</li>
+    <li>Pobierz plik Technomod_MODPACK.zip</li>
+    <li>Rozpakuj paczkęmodów.</li>
+    <li>Przenieś mody do folderu mods.</li>
+    <li>Odpal grę.</li>
+    <li>Gotowe (w razie problemów zgłoś się na a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)</li>
+</ol>
 
 <!--<h3>Przez CurseForge</h3>
 1. Wejdź na stronę Techonoda (<a href="">tutaj</a>)
