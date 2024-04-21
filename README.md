@@ -1,4 +1,4 @@
-# Server-modpack (aka Techomod)
+# Techomod
 Strona dla paczkęmodów który będzie używany na serverze (który będzie dostępny na majówkę).
 
 # Pobierz
