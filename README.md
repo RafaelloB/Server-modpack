@@ -95,16 +95,20 @@ Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">t
 Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać wszystkich modów osobno. Znajdują się tam mody wymienione wyżej plus więcej (przydatnych mniej lub bardziej).
 
 # Lista modów
-## Główne mody
+<h3>Główne mody</h3>
 <ul>
-    <li>Biomes O' Plenty</li>
+    <li>Additional Enchanted Miner</li>
+    <li>Aether</li>
+    <li>Botania</li>
+    <li>Flux Networks</li>
+    <li>Mekanism</li>
     <li>Chipped</li>
     <li>Create</li>
     <li>Pipez</li>
     <li>Refined Storage</li>
 </ul>
 
-## Dodatkowe mody (addons)
+<h3> Dodatkowe mody (addons)</h3>
 <ul>
     <li>Create Enchantment Industy</li>
     <li>Create Recycle Everything</li>
@@ -115,14 +119,18 @@ Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać ws
     <li>Create: Interior</li>
     <li>Create: Netherless (Forge)</li>
     <li>Create: Steam 'n' Rails</li>
+    <li>Mekanism Generators</li>
+    <li>Refined Storage Addons</li>
 </ul>
 
-## Biblioteki (librarys)
+<h3>Biblioteki<>
 <ul>
     <li>Athena</li>
     <li>MaFgLib</li>
     <li>Resourceful Lib</li>
     <li>TerraBlender (Forge)</li>
+    <li>Arcitektury</li>
+    <li>
 </ul>
 
 ## Mody rekomendowane
