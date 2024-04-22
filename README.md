@@ -1,4 +1,4 @@
-# Techomod
+# Technocrate
 Strona dla paczkimodów który będzie używany na serverze (który będzie dostępny na majówkę).
 
 # Pobierz
