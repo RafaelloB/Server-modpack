@@ -124,7 +124,7 @@ Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać ws
     <li>Refined Storage Addons</li>
 </ul>
 
-<h3>Biblioteki<>
+<h3>Biblioteki</h3>
 <ul>
     <li>Athena</li>
     <li>MaFgLib</li>
@@ -141,12 +141,12 @@ Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać ws
     <li>OptiFine</li>
     <li>Xaero's Minimap</li>
     <li>Xaero's World Map</li>
+    <li>Forgematica</li>
 </ul>
 <h3>Biblioteki</h3>
 <ul>
     <li>Configured</li>
     <li>Entity Culling Fabric/Forge</li>
-    <li>Forgematica</li>
     <li>JEI Integration</li>
     <li>Mouse Tweaks</li>
 </ul>
