@@ -94,7 +94,7 @@ Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">t
 
 Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać wszystkich modów osobno. Znajdują się tam mody wymienione wyżej plus więcej (przydatnych mniej lub bardziej).
 
-# Lista modów
+<!--# Lista modów
 ## Podstawowe
 <h3>Główne mody</h3>
 <ul>
@@ -150,3 +150,4 @@ Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać ws
     <li>JEI Integration</li>
     <li>Mouse Tweaks</li>
 </ul>
+-->
