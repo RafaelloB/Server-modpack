@@ -95,6 +95,7 @@ Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">t
 Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać wszystkich modów osobno. Znajdują się tam mody wymienione wyżej plus więcej (przydatnych mniej lub bardziej).
 
 # Lista modów
+## Podstawowe
 <h3>Główne mody</h3>
 <ul>
     <li>Additional Enchanted Miner</li>
@@ -130,16 +131,18 @@ Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać ws
     <li>Resourceful Lib</li>
     <li>TerraBlender (Forge)</li>
     <li>Arcitektury</li>
-    <li>
+    <li>Patch
 </ul>
 
 ## Mody rekomendowane
+<h3>Główne</h3>
 <ul>
     <li>Just Enough Items (JEI)</li>
     <li>OptiFine</li>
     <li>Xaero's Minimap</li>
     <li>Xaero's World Map</li>
 </ul>
+<h3>Biblioteki</h3>
 <ul>
     <li>Configured</li>
     <li>Entity Culling Fabric/Forge</li>
