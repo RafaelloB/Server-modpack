@@ -2,7 +2,7 @@
 Strona dla paczkimodów który będzie używany na serverze (który będzie dostępny na majówkę).
 
 # Pobierz
-<a href="https://github.com/RafaelloB/Server-modpack/releases/download/1.20.1_v0.1/Technomod_MODPACK.zip">KLIK</a>
+<a href="https://github.com/RafaelloB/Technomod/releases">KLIK</a>
 
 # Proces
 Mod pack dalej w robocie.
