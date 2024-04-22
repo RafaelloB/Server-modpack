@@ -24,14 +24,13 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
     <li>Gotowe (w razie problemów zgłoś się na <a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)</li>
 </ol>
 
-<!--<h3>Przez CurseForge</h3>
+<h3>Przez CurseForge
 <ol>
     <li>Wejdź na stronę Techonoda (<a href="">tutaj</a>)</li>
     <li>Kliknij pobierz za pomocą CurseForge.</li>
     <li>Odpal grę.</li>
     <li>Gotowe (w razie problemów zgłoś się na a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)</li>
 <ol>
--->
 
 ## Minecraft nopremium
 Postępuj zgodnie z wymaganiami własnego launchera. (Przepraszmy za to. Nie wiemy jaki macie luncher.)
