@@ -17,7 +17,7 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
 <ol>
     <li>Pobierz forge na wersję 1.20.1 <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">tutaj</a> (najlepiej wersję 47.2.0).</li>
     <li>Zainstaluj forge.</li>
-    <li>Pobierz plik Technomod_MODPACK.zip</li>
+    <li>Pobierz plik Technocrate_MODPACK.zip</li>
     <li>Rozpakuj paczkęmodów.</li>
     <li>Przenieś mody do folderu mods.</li>
     <li>Odpal grę.</li>
@@ -26,11 +26,11 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
 
 <h3>Przez CurseForge</h3>
 <ol>
-    <li>Wejdź na stronę Techonoda (<a href="">tutaj</a>)</li>
+    <li>Wejdź na stronę CursForga do paczki modów Techocrate (<a href="https://www.curseforge.com/minecraft/modpacks/technocrate">tutaj</a>)</li>
     <li>Kliknij pobierz za pomocą CurseForge.</li>
     <li>Odpal grę.</li>
-    <li>Gotowe (w razie problemów zgłoś się na a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)</li>
-<ol>
+    <li>Gotowe (w razie problemów zgłoś się na <a href="https://discord.com/invite/UWQKWjt6Ve">serwerze Discord</a>)</li>
+</ol>
 
 ## Minecraft nopremium
 Postępuj zgodnie z wymaganiami własnego launchera. (Przepraszmy za to. Nie wiemy jaki macie luncher.)
@@ -50,9 +50,8 @@ Postępuj zgodnie z wymaganiami własnego launchera. (Przepraszmy za to. Nie wie
 <h3>Crystal Launcher</h3>
 Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">tutaj</a>
 
-
 # Wiki
-<table border="1">
+<table>
     <tr>
         <td>Create</td>
         <td><a href="https://create.fandom.com/wiki/Create_Mod_Wiki">Wiki</a></td>
@@ -72,7 +71,7 @@ Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">t
 </table>
 
 # Przydatne mody
-<table border="1">
+<table>
     <tr>
         <td><a href="https://www.curseforge.com/minecraft/mc-mods/jei">Jei</a></td>
         <td>Wszystkie receptury</td>
@@ -91,7 +90,7 @@ Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">t
     </tr>
 </table>
 
-Możesz również pobrać plik Technomod_MODPACK+BETTER.zip, by nie pobierać wszystkich modów osobno. Znajdują się tam mody wymienione wyżej plus więcej (przydatnych mniej lub bardziej).
+Możesz również pobrać plik Technocrate_MODPACK+BETTER.zip, by nie pobierać wszystkich modów osobno. Znajdują się tam mody wymienione wyżej plus więcej (przydatnych mniej lub bardziej).
 
 <!--# Lista modów
 ## Podstawowe
