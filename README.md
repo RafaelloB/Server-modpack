@@ -15,7 +15,7 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
 ## Minecraft premium
 <h3>Ręczna</h3>
 <ol>
-    <li>Pobierz forge na wersję 1.20.1 <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">tutaj</a> (najlepiej wersję 47.2.0).</li>
+    <li>Pobierz forge na wersję 1.20.1 <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">tutaj</a> (wersję 47.2.0 lub wyżej).</li>
     <li>Zainstaluj forge.</li>
     <li>Pobierz plik Technocrate_MODPACK.zip</li>
     <li>Rozpakuj paczkęmodów.</li>
