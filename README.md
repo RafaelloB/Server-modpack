@@ -17,7 +17,7 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
 <ol>
     <li>Pobierz forge na wersję ktoóra opowiada wersji paczki modów <a href="https://files.minecraftforge.net/net/minecraftforge/forge/">tutaj pobierz</a>.</li>
     <li>Zainstaluj forge.</li>
-    <li>Pobierz plik Technocrate_m[wersja minecrafta].zip</li>
+    <li>Pobierz plik Technocrate_v[wersja paczki]_m[wersja minecrafta].zip</li>
     <li>Rozpakuj paczkęmodów.</li>
     <li>Przenieś mody do folderu mods.</li>
     <li>Odpal grę.</li>
@@ -90,7 +90,7 @@ Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">t
     </tr>
 </table>
 
-Możesz również pobrać plik Technocrate_B_m[wersja minecrafta].zip, by nie pobierać wszystkich modów osobno. Znajdują się tam mody wymienione wyżej plus więcej (przydatnych mniej lub bardziej).
+Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta].zip, by nie pobierać wszystkich modów osobno. Znajdują się tam mody wymienione wyżej plus więcej (przydatnych mniej lub bardziej).
 
 <!--# Lista modów
 ## Podstawowe
