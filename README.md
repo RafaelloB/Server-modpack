@@ -15,9 +15,9 @@ Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego
 ## Minecraft premium
 <h3>Ręczna</h3>
 <ol>
-    <li>Pobierz forge na wersję 1.20.1 <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">tutaj</a> (wersję 47.2.0 lub wyżej).</li>
+    <li>Pobierz forge na wersję ktoóra opowiada wersji paczki modów <a href="https://files.minecraftforge.net/net/minecraftforge/forge/">tutaj pobierz</a>.</li>
     <li>Zainstaluj forge.</li>
-    <li>Pobierz plik Technocrate_MODPACK.zip</li>
+    <li>Pobierz plik Technocrate_m[wersja minecrafta].zip</li>
     <li>Rozpakuj paczkęmodów.</li>
     <li>Przenieś mody do folderu mods.</li>
     <li>Odpal grę.</li>
@@ -90,7 +90,7 @@ Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">t
     </tr>
 </table>
 
-Możesz również pobrać plik Technocrate_MODPACK+BETTER.zip, by nie pobierać wszystkich modów osobno. Znajdują się tam mody wymienione wyżej plus więcej (przydatnych mniej lub bardziej).
+Możesz również pobrać plik Technocrate_B_m[wersja minecrafta].zip, by nie pobierać wszystkich modów osobno. Znajdują się tam mody wymienione wyżej plus więcej (przydatnych mniej lub bardziej).
 
 <!--# Lista modów
 ## Podstawowe
