@@ -104,45 +104,27 @@ Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">t
 
 Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta].zip, by nie pobierać wszystkich modów osobno. Znajdują się tam mody wymienione wyżej plus więcej (przydatnych mniej lub bardziej).
 
-<!--# Lista modów
+# Lista modów
 ## Podstawowe
 <h3>Główne mody</h3>
 <ol>
-    <li></li>
-    Additional Enchanted Miner
-    Aether
-    Beyond Earth
-    Biome O' Plentty
-    Bookshelf
-    Botany Pots
-    Botany Trees
-    Botania
-    Chipped
-    Cofh Core
-    Create
-    Create: Addition
-    Create: Bells and whistles
-    Create: Copycats+
-    Create: Copycats+
-    Create: Design and decor
-    Create: Enchantment Indrusty
-    Create: Interios
-    Create: Netherlss
-    Create: Recycle Eveerything
-    Create: Steam 'n' Rails
-    CTM
-    Curios
-    Custom Recipes for server
-    Flux Metworks
-    Mekanism
-    Mekanism Generators
-    Offline Skinss
-    Patchouli
-    Pipez
-    Refined Storage
-    Refined Storage Addons
-    Resource full lib
-    Scalable Cats
+    <li>Additional Enchanted Miner</li>
+    <li>Aether</li>
+    <li>Beyond Earth</li>
+    <li>Biome O' Plentty</li>
+    <lli>Botany Pots</lli>
+    <li>Botany Trees</li>
+    <li>Botania</li>
+    <li>Chipped</li>
+    <li>Create</li>
+    <li>Custom Recipes for server</li>
+    <li>Flux Metworks</li>
+    <li>Mekanism</li>
+    <li>Offline Skinss</li>
+    <li>Pipez</li>
+    <li>Refined Storage</li>
+    <li>Resource full lib</li>
+    
     Storage Drawers 
     Terra Blender
     Thermal: Dynamic
@@ -150,3 +132,26 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
     Thermal: Fundation
     Tinkers Construct
     Twiligh Forest
+<h3>Dodatki (Addons)</h3>
+<ol>
+    <li>Create: Addition</li>
+    <li>Create: Bells and whistles</li>
+    <li>Create: Copycats+</li>
+    <li>Create: Design and decor</li>
+    <li>Create: Enchantment Indrusty</li>
+    <li>Create: Interios</li>
+    <li>Create: Netherlss</li>
+    <li>Create: Recycle Eveerything</li>
+    <li>Create: Steam 'n' Rails</li>
+    <li>Refined Storage Addons</li>
+</ol>
+
+<h3>Biblioteki (Lib)</h3>
+<ol>
+    <li>Bookshelf</li>
+    <li>Cofh Core</li>
+    <li>Connected Textures Mod</li>
+    <li>Curios</li>
+    <li>Mekanism Generators</li>
+    <li>Patchouli</li>
+</ol>
