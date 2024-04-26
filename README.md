@@ -6,7 +6,7 @@ Strona dla paczkimodów który będzie używany na serverze (który będzie dost
 
 # Proces
 Gotowa do gry.
-<p>Server: <a href="s1124432.csrv.pl">Adres</a></p>
+<p>Server: s1124432.csrv.pl</p>
 
 # Ważne
 Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego miejsca pojawia się na świecie.
