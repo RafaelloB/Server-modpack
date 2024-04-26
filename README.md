@@ -107,7 +107,7 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
 # Lista modów
 ## Podstawowe
 <h3>Główne mody</h3>
-<ol>
+<ul>
     <li>Additional Enchanted Miner</li>
     <li>Aether</li>
     <li>Beyond Earth</li>
@@ -129,10 +129,10 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
     <li>Thermal: Fundation</li>
     <li>Tinkers Construct</li>
     <li>Twiligh Forest</li>
-
+</ul>
 
 <h3>Dodatki (Addons)</h3>
-<ol>
+<ul>
     <li>Create: Addition</li>
     <li>Create: Bells and whistles</li>
     <li>Create: Copycats+</li>
@@ -143,10 +143,10 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
     <li>Create: Recycle Eveerything</li>
     <li>Create: Steam 'n' Rails</li>
     <li>Refined Storage Addons</li>
-</ol>
+</ul>
 
 <h3>Biblioteki (Lib)</h3>
-<ol>
+<ul>
     <li>Bookshelf</li>
     <li>Cofh Core</li>
     <li>Connected Textures Mod</li>
@@ -156,4 +156,4 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
     <li>Resource full lib</li>
     <li>Scalable Cats</li>
     <li>Offline Skinss</li>
-</ol>
+</ul>
