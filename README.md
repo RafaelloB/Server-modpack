@@ -123,9 +123,7 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
     <li>Offline Skinss</li>
     <li>Pipez</li>
     <li>Refined Storage</li>
-    <li>Resource full lib</li>
-    
-    Storage Drawers 
+    <li>Storage Drawers
     Terra Blender
     Thermal: Dynamic
     Thermal: Expansion
@@ -154,4 +152,6 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
     <li>Curios</li>
     <li>Mekanism Generators</li>
     <li>Patchouli</li>
+    <li>Resource full lib</li>
+    <li>Scalable Cats</li>
 </ol>
