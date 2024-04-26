@@ -2,7 +2,7 @@
 Strona dla paczkimodów który będzie używany na serverze (który będzie dostępny na majówkę).
 
 # Pobierz
-<a href="https://github.com/RafaelloB/Technocrate/releases/download/v1.0.0_m1.19.2/Technocrate_v1.0.0_m1.19.2.zip">KLIK</a>
+<a href="https://github.com/RafaelloB/Technocrate/releases/download/v1.0.0_m1.19.2/Technocrate_v1.0.0_m1.19.2">KLIK</a>
 
 # Proces
 Gotowa do gry.
