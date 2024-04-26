@@ -120,16 +120,17 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
     <li>Custom Recipes for server</li>
     <li>Flux Metworks</li>
     <li>Mekanism</li>
-    <li>Offline Skinss</li>
     <li>Pipez</li>
     <li>Refined Storage</li>
     <li>Storage Drawers
-    Terra Blender
-    Thermal: Dynamic
-    Thermal: Expansion
-    Thermal: Fundation
-    Tinkers Construct
-    Twiligh Forest
+    <li>Terra Blender</li>
+    <li>Thermal: Dynamic</li>
+    <li>Thermal: Expansion</li>
+    <li>Thermal: Fundation</li>
+    <li>Tinkers Construct</li>
+    <li>Twiligh Forest</li>
+
+
 <h3>Dodatki (Addons)</h3>
 <ol>
     <li>Create: Addition</li>
@@ -154,4 +155,5 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
     <li>Patchouli</li>
     <li>Resource full lib</li>
     <li>Scalable Cats</li>
+    <li>Offline Skinss</li>
 </ol>
