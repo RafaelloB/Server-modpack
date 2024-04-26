@@ -2,10 +2,10 @@
 Strona dla paczkimodów który będzie używany na serverze (który będzie dostępny na majówkę).
 
 # Pobierz
-<a href="https://github.com/RafaelloB/Technocrate/releases/download/v.0.0.2-m1.20.1/Technomod_MODPACK.zip">KLIK</a>
+<a href="https://github.com/RafaelloB/Technocrate/releases/download/v1.0.0_m1.19.2/Technocrate_v1.0.0_m1.19.2.zip">KLIK</a>
 
 # Proces
-Paczka prawie wydana
+Gotowa do gry.
 
 # Ważne
 Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego miejsca pojawia się na świecie.
