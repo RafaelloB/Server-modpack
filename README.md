@@ -5,7 +5,7 @@ Strona dla paczkimodów który będzie używany na serverze (który będzie dost
 <a href="https://github.com/RafaelloB/Technocrate/releases/download/v.0.0.2-m1.20.1/Technomod_MODPACK.zip">KLIK</a>
 
 # Proces
-Mod pack dalej w robocie.
+Paczka prawie wydana
 
 # Ważne
 Prośba do użytkowników, aby nie niszczyli sprawna oraz 160 bloków od swojego miejsca pojawia się na świecie.
