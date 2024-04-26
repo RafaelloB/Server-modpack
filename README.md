@@ -95,57 +95,46 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
 <!--# Lista modów
 ## Podstawowe
 <h3>Główne mody</h3>
-<ul>
-    <li>Additional Enchanted Miner</li>
-    <li>Aether</li>
-    <li>Botania</li>
-    <li>Flux Networks</li>
-    <li>Mekanism</li>
-    <li>Chipped</li>
-    <li>Create</li>
-    <li>Pipez</li>
-    <li>Refined Storage</li>
-</ul>
-
-<h3> Dodatkowe mody (addons)</h3>
-<ul>
-    <li>Create Enchantment Industy</li>
-    <li>Create Recycle Everything</li>
-    <li>Create: Bells & Whistles</li>
-    <li>Create: Copycats+</li>
-    <li>Create: Creative</li>
-    <li>Create: Design n' Decor</li>
-    <li>Create: Interior</li>
-    <li>Create: Netherless (Forge)</li>
-    <li>Create: Steam 'n' Rails</li>
-    <li>Mekanism Generators</li>
-    <li>Refined Storage Addons</li>
-</ul>
-
-<h3>Biblioteki</h3>
-<ul>
-    <li>Athena</li>
-    <li>MaFgLib</li>
-    <li>Resourceful Lib</li>
-    <li>TerraBlender (Forge)</li>
-    <li>Arcitektury</li>
-    <li>Patch
-</ul>
-
-## Mody rekomendowane
-<h3>Główne</h3>
-<ul>
-    <li>Just Enough Items (JEI)</li>
-    <li>OptiFine</li>
-    <li>Xaero's Minimap</li>
-    <li>Xaero's World Map</li>
-    <li>Forgematica</li>
-</ul>
-<h3>Biblioteki</h3>
-<ul>
-    <li>Configured</li>
-    <li>Entity Culling Fabric/Forge</li>
-    <li>JEI Integration</li>
-    <li>Mouse Tweaks</li>
-</ul>
--->
+<ol>
+    <li></li>
+    Additional Enchanted Miner
+    Aether
+    Beyond Earth
+    Biome O' Plentty
+    Bookshelf
+    Botany Pots
+    Botany Trees
+    Botania
+    Chipped
+    Cofh Core
+    Create
+    Create: Addition
+    Create: Bells and whistles
+    Create: Copycats+
+    Create: Copycats+
+    Create: Design and decor
+    Create: Enchantment Indrusty
+    Create: Interios
+    Create: Netherlss
+    Create: Recycle Eveerything
+    Create: Steam 'n' Rails
+    CTM
+    Curios
+    Custom Recipes for server
+    Flux Metworks
+    Mekanism
+    Mekanism Generators
+    Offline Skinss
+    Patchouli
+    Pipez
+    Refined Storage
+    Refined Storage Addons
+    Resource full lib
+    Scalable Cats
+    Storage Drawers 
+    Terra Blender
+    Thermal: Dynamic
+    Thermal: Expansion
+    Thermal: Fundation
+    Tinkers Construct
+    Twiligh Forest
