@@ -68,6 +68,18 @@ Postępuj z wytcznymi <a href="https://help.crystal-launcher.pl/p/custompacks">t
         <td>Refined Storage</td>
         <td><a href="https://refinedmods.com/refined-storage/">Wiki</a></td>
     </tr>
+    <tr>
+        <td>Quarry Plus</td>
+        <td><a href="https://github.com/Kotori316/QuarryPlus/wiki">Wiki</a></td>
+    </tr>
+    <tr>
+        <td>Aether</td>
+        <td><a href="https://aether.wiki.gg/wiki/Aether_Wiki">Wiki</a></td>
+    </tr>
+    <tr>
+        <td>Beyond Earth</td>
+        <td><a href="https://beyond-earth.fandom.com/wiki/Beyond-Earth_Wiki">Wiki</a></td>
+    </tr>
 </table>
 
 # Przydatne mody
