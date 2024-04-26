@@ -112,7 +112,7 @@ Możesz również pobrać plik Technocrate_v[wersja paczki]B_m[wersja minecrafta
     <li>Aether</li>
     <li>Beyond Earth</li>
     <li>Biome O' Plentty</li>
-    <lli>Botany Pots</li>
+    <li>Botany Pots</li>
     <li>Botany Trees</li>
     <li>Botania</li>
     <li>Chipped</li>
